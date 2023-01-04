@@ -1,0 +1,72 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.sfondo-interno{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  height: 1000px;
+  margin: auto;
+  border-radius: 5%;
+}
+
+.logo{
+  width: 250px;
+  margin-top: 50px;
+}
+
+header{
+  text-align: center;
+}
+
+.bottoni{
+  background-color: lime;
+  width: 1000px;
+  height: 50px;
+  text-align: center;
+}
+
+main{
+  text-align: left;
+  margin-left: 100px;
+}
+
+.intestazione{
+  font-size: 40px;
+  color: lime;
+  display: inline-block;
+}
+
+.titolo{
+  color: white;
+  font-size: 20px;
+  font-family: 'Kanit', sans-serif;
+  display: inline-block;
+}
+
+.contenuti{
+  color: white;
+}
+
+.gino{
+  background-color: orange;
+  height: 30px;
+  width: 250px;
+  border-radius: 5%;
+}
+
+.mike{
+  background-color: green;
+  height: 30px;
+  width: 500px;
+  border-radius: 5%;
+}
+
+.fede{
+  background-color: red;
+  height: 30px;
+  width: 150px;
+  border-radius: 5%;
+}
